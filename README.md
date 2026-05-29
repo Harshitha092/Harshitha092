@@ -32,7 +32,7 @@ I work across the full analytics workflow: data cleaning, modeling, KPI design, 
 
 ### 📂 Featured Projects
 
-#### 📊 [MobiTrend Retail — Mobile Sales Intelligence Dashboard](https://github.com/Harshitha092/Mobile-Sales-Intelligence-Dashboard) `Power BI`
+#### 📱 [MobiTrend Retail — Mobile Sales Intelligence Dashboard](https://github.com/Harshitha092/Mobile-Sales-Intelligence-Dashboard) `Power BI`
 Built an end-to-end interactive sales intelligence dashboard analyzing 5.2K+ mobile retail transactions. Performed data cleaning on messy real-world fact data, built a star schema model, developed advanced DAX measures, and uncovered strategic insights around revenue decline, customer retention, payment trends, and product performance. 
 
 ---
