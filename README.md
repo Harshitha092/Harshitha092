@@ -32,8 +32,8 @@ I work across the full analytics workflow: data cleaning, modeling, KPI design, 
 
 ### 📂 Featured Projects
 
-#### 📊 [Atliq Hardware — Sales Performance Analytics](https://github.com/Harshitha092/Atliq-Sales-Insights-PowerBI-Project) `Power BI`
-Executive dashboard for a pan-India hardware company covering 4 regions and 75+ customers. Uncovered a 19.6% YoY revenue decline and West Zone risk concentration. Reduced manual reporting effort by 20%.
+#### 📊 [MobiTrend Retail — Mobile Sales Intelligence Dashboard](https://github.com/Harshitha092/Mobile-Sales-Intelligence-Dashboard) `Power BI`
+Built an end-to-end interactive sales intelligence dashboard analyzing 5.2K+ mobile retail transactions. Performed data cleaning on messy real-world fact data, built a star schema model, developed advanced DAX measures, and uncovered strategic insights around revenue decline, customer retention, payment trends, and product performance. 
 
 ---
 
