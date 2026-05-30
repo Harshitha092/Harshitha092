@@ -60,6 +60,7 @@ Sales performance analysis for Ferns N Petals with executive summary and dashboa
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/salianharshitha/)
+- 🗂️ [Portfolio](https://harshitha-data-analyst-1xr19uy.gamma.site/)
 - 📧 salian.harshitha.r@gmail.com
 - 📍 Dubai, UAE
 
